@@ -1,0 +1,7 @@
+C:\Users\Samsung\source\repos\Kemia\Kemia\bin\Debug\Kemia.exe.config
+C:\Users\Samsung\source\repos\Kemia\Kemia\bin\Debug\Kemia.exe
+C:\Users\Samsung\source\repos\Kemia\Kemia\bin\Debug\Kemia.pdb
+C:\Users\Samsung\source\repos\Kemia\Kemia\obj\Debug\Kemia.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Kemia\Kemia\obj\Debug\Kemia.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Kemia\Kemia\obj\Debug\Kemia.exe
+C:\Users\Samsung\source\repos\Kemia\Kemia\obj\Debug\Kemia.pdb
